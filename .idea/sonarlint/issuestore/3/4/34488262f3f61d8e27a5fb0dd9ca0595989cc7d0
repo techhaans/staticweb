@@ -1,0 +1,10 @@
+
+tWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(ß„úÅıÿÿÿÿJ$3e9f3e6a-43c3-496e-97f2-e52c54705a48
+—	Web:S6819ä"TUse <section> instead of the region role to ensure accessibility across all devices.(Œ»¢‡8Ğ†˜ß2J$78a59a15-1dad-4c7b-8125-2ed8ec7182e3
+Œ	Web:S6851ä"IRemove redundant word "image" from the "alt" attribute of your "img" tag.(Œ»¢‡8Ñ†˜ß2J$5d97dd21-9ccb-4380-b5fd-ec7da8ba8cff
+~	Web:S6845ä";"tabIndex" should only be declared on interactive elements.(Œ»¢‡8Ò†˜ß2J$bf72fc44-b221-4b04-adb8-e80e2952c542
+p	Web:S1827–	"-Remove this deprecated "scrolling" attribute.(Ôÿƒä8Ó†˜ß2J$11f93487-76b9-416c-a800-cd336d5fc80a
+x	Web:S1827–	"5Remove this deprecated "allowtransparency" attribute.(Ôÿƒä8Ô†˜ß2J$578d88f2-ae23-4547-ae1b-8556f2b859df
+r	Web:S1827–	"/Remove this deprecated "frameborder" attribute.(Ôÿƒä8Õ†˜ß2J$8a5d6ecf-3135-4eae-ba72-562b77abf6f4
+	Web:S6819–	"MUse <img> instead of the img role to ensure accessibility across all devices.(Ôÿƒä8Õ†˜ß2J$ad6fc1ef-10a0-491f-9b11-9e388ccd5f6a
+—	Web:S6819›	"TUse <section> instead of the region role to ensure accessibility across all devices.(Ó¿¼Â8Õ†˜ß2J$5cba5ed5-5d0f-46a3-8a19-fe450167a553

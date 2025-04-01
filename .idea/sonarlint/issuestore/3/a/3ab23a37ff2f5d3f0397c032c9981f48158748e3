@@ -1,0 +1,6 @@
+
+NWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(ß„úÅıÿÿÿÿ
+d	Web:S6851Â"IRemove redundant word "image" from the "alt" attribute of your "img" tag.(Ôˆšüÿÿÿÿ
+V	Web:S6845Â";"tabIndex" should only be declared on interactive elements.(Ôˆšüÿÿÿÿ
+o	Web:S6819Ã"TUse <section> instead of the region role to ensure accessibility across all devices.(õïÀšùÿÿÿÿ
+ƒ	Web:S4645ğ"hA </script> was found without a relating opening <script> tag. This may be caused by nested script tags.(Ø’Ëèüÿÿÿÿ
